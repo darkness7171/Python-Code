@@ -1,0 +1,5 @@
+2,Nepali,80
+2,Math,80
+2,Science,80
+2,English,80
+2,Computing,30
